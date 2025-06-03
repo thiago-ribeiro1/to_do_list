@@ -9,7 +9,7 @@ app.use(cors());
 app.use(bodyParser.json()); // Para ler o corpo das requisições como JSON
 app.use("/api", taskRoutes);
 
-const port = 3000;
+const port = 80;
 app.listen(port, () => {
   console.log(`Aplicação rodando na porta ${port}`);
 });
