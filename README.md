@@ -1,22 +1,13 @@
 # 📋 To-Do List
 
-## ⚠️ Este é um projeto temporário desenvolvido com fins acadêmicos.
+## ⚠️ Projeto desenvolvido para fins acadêmicos
 
-### 1. Rodar o Backend (Node.js + Express)
+Este projeto foi desenvolvido com **fins acadêmicos**, com o objetivo de demonstrar a implantação de uma aplicação web simples utilizando **frontend (React + Vite)** e **backend (Node.js + Express)** em uma arquitetura distribuída na nuvem.
 
-```bash
-cd backend
-npm install
-node index.js
-```
+A proposta envolve a simulação de um ambiente real de produção, com a aplicação hospedada em uma **VPC (Virtual Private Cloud)** na **AWS**, distribuída entre **duas instâncias EC2**:
 
-### 2. Rodar o Frontend (React + Vite)
+- 🖥️ **Frontend** executado em uma instância EC2 dedicada  
+- ⚙️ **Backend** executado em uma instância EC2 separada
 
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
-O frontend será iniciado em: http://localhost:5173
+Essa separação busca representar boas práticas de escalabilidade, segurança e organização de aplicações na nuvem.
 
