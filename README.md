@@ -1,6 +1,6 @@
 # 📋 To-Do List
 
-## ⚠️ Projeto desenvolvido para fins acadêmicos
+## ⚠️ Projeto utilizado para fins acadêmicos
 
 Este projeto foi desenvolvido com **fins acadêmicos**, com o objetivo de demonstrar a implantação de uma aplicação web simples utilizando **frontend (React + Vite)** e **backend (Node.js + Express)** em uma arquitetura distribuída na nuvem.
 
