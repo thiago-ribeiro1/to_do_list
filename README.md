@@ -6,8 +6,8 @@ Este projeto foi desenvolvido com **fins acadêmicos**, com o objetivo de demons
 
 A proposta envolve a simulação de um ambiente real de produção, com a aplicação hospedada em uma **VPC (Virtual Private Cloud)** na **AWS**, distribuída entre **duas instâncias EC2**:
 
-- 🖥️ **Frontend** executado em uma instância EC2 dedicada  
-- ⚙️ **Backend** executado em uma instância EC2 separada
+- 🖥️ **Frontend** executado em uma instância EC2 
+- ⚙️ **Backend** executado em uma instância EC2
 
 Essa separação busca representar boas práticas de escalabilidade, segurança e organização de aplicações na nuvem.
 
