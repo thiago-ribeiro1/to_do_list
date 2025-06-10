@@ -9,5 +9,3 @@ A proposta envolve a simulação de um ambiente real de produção, com a aplica
 - 🖥️ **Frontend** executado em uma instância EC2 
 - ⚙️ **Backend** executado em uma instância EC2
 
-Essa separação busca representar boas práticas de escalabilidade, segurança e organização de aplicações na nuvem.
-
