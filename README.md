@@ -41,5 +41,5 @@ A aplicação está hospedada em uma **VPC (Virtual Private Cloud)** personaliza
 
 ---
 
-> 🔎 Este projeto acadêmico representa uma experiência prática de implantação de aplicações em nuvem, aproximando o estudante de contextos reais do mercado de trabalho.
+> 🔎 Este projeto acadêmico representa uma experiência prática de implantação de aplicações em nuvem, permitindo a utilização de contextos reais do mercado de trabalho.
 
