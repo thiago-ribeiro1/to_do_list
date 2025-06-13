@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido com **fins acadêmicos**, com o objetivo de realizar a implantação de uma aplicação web moderna na nuvem, utilizando os serviços da **Amazon Web Services (AWS)**.
 
-https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 A arquitetura contempla a separação entre **frontend** e **backend**, com uso de tecnologias atuais como **React (Vite)**, **Node.js (Express)** e **MongoDB**, em um ambiente real configurado com **VPC, sub-redes públicas e instâncias EC2**.
 
